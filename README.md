@@ -17,8 +17,7 @@
 
 
 ### 작품회로도
-
-
+![화면 캡처 2023-06-08 145945](https://github.com/prop22kk/kwlgus/assets/131340894/5bf10ed8-26ba-4f39-8538-aa3a24678ab4)
 
 ### 작품사진
 
